@@ -30,11 +30,11 @@
 <XPD:REF name="RepresentedClassifier">qSxt7NeKo0WrbeKOiSkYjQAA</XPD:REF>
 <XPD:ATTR name="#InteractionInstanceSets" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="InteractionInstanceSets[0]" type="UMLInteractionInstanceSet" guid="MOy3f6tty0CSieZF9D6U+QAA">
-<XPD:ATTR name="Name" type="string">InteractionInstanceSet1</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ActivityFragmentLifeCycle</XPD:ATTR>
 <XPD:REF name="Context">wxpksrm2bEu9l+wHIhsLOAAA</XPD:REF>
 <XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedDiagrams[0]" type="UMLSequenceDiagram" guid="dgrFsCzTv0KbNjEOzzgFoQAA">
-<XPD:ATTR name="Name" type="string">SequenceDiagram1</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ActivityFragmentLifeCycle</XPD:ATTR>
 <XPD:REF name="DiagramOwner">MOy3f6tty0CSieZF9D6U+QAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="oCHg/M/UQE+heFT8Lk6kzgAA">
 <XPD:REF name="Diagram">dgrFsCzTv0KbNjEOzzgFoQAA</XPD:REF>
