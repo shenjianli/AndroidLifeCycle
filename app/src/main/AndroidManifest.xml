@@ -20,6 +20,9 @@
         <activity android:name=".OtherActivity">
 
         </activity>
+
+        <activity android:name=".service.ServiceActivity"></activity>
+        <service android:name=".service.MainService" android:exported="true"></service>
     </application>
 
 </manifest>
